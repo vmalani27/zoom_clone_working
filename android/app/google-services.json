@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "658103156599",
+    "project_id": "quickmeettirth",
+    "storage_bucket": "quickmeettirth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658103156599:android:47dae9de1e05cd28efab72",
+        "android_client_info": {
+          "package_name": "com.example.quickmeet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "658103156599-sdii24kdiag5lmjqd2h6302fmhtrt8ar.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.quickmeet",
+            "certificate_hash": "fd26e47d6be8b91726e44375da529626cbb3409b"
+          }
+        },
+        {
+          "client_id": "658103156599-ht8bl2nc8ennpi2f8o5iqeuh7e1nd2ar.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPpLe3i2E5lBHYiNFzTZc3kWVpixmcaNo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "658103156599-ht8bl2nc8ennpi2f8o5iqeuh7e1nd2ar.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
